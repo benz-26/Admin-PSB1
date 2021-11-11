@@ -12,8 +12,8 @@ git clone https://github.com/sertif/index.html
 
 ## Sructure 
 
-- Front End - HTML, CSS, JavaScript
-- Back End - PHP
+- Front End - HTML, CSS, JavaScript ,Bootstrap
+- Back End - PHP , Codeigniter 3
 - Database - MySql
 
 
